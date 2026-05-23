@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Sarath Sai R</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=26&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%8C%90;Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=26&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%8C%90;Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;"/>
 </p>
 
 ---
